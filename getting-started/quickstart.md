@@ -16,8 +16,10 @@ Click API Keys under the Developer section.
 Click Generate New Key.
 Enter a name for the key — for example, "My First Integration" — and click Create.
 Copy the API key displayed on screen.
-> **Note:** FlowSync displays your API key only once. Store it securely in a
-> password manager or environment variable before closing this screen.
+
+**Note:** FlowSync displays your API key only once. Store it securely in a
+password manager or environment variable before closing this screen.
+
 Result: Your API key is now active and ready to use. It appears in your
 API Keys list with a status of Active.
 ---
