@@ -11,12 +11,13 @@ A terminal or API client such as Postman or curl
 ---
 <ol>
 <li>Step 1: Generate Your API Key</li>.
-Log in to your FlowSync dashboard at app.flowsync.io.
-Click Settings in the left navigation panel.
-Click API Keys under the Developer section.
-Click Generate New Key.
-Enter a name for the key — for example, "My First Integration" — and click Create.
-Copy the API key displayed on screen.
+<li>Log in to your FlowSync dashboard at app.flowsync.io</li>.
+<li>Click Settings in the left navigation panel.</li>
+<li>Click API Keys under the Developer section.</li>
+<li>Click Generate New Key.</li>
+<li>Enter a name for the key — for example, "My First Integration" — and click Create.</li>
+<li>Copy the API key displayed on screen.</li>
+</ol>
 
 **Note:** FlowSync displays your API key only once. Store it securely in a
 password manager or environment variable before closing this screen.
