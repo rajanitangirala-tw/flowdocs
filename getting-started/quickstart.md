@@ -9,7 +9,8 @@ A FlowSync account (sign up at flowsync.io/signup)
 A workspace created in your FlowSync dashboard
 A terminal or API client such as Postman or curl
 ---
-Step 1: Generate Your API Key
+<ol>
+<li>Step 1: Generate Your API Key</li>.
 Log in to your FlowSync dashboard at app.flowsync.io.
 Click Settings in the left navigation panel.
 Click API Keys under the Developer section.
