@@ -1,6 +1,6 @@
 # FlowDocs — FlowSync API Documentation
 
-**Live Site:** [flowdocs.github.io](https://flowdocs.github.io) *(replace with your GitHub Pages URL)*
+**Live Site:** [[flowdocs.github.io](https://flowdocs.github.io](https://rajanitangirala-tw.github.io/flowdocs/)) *(replace with your GitHub Pages URL)*
 **Owner:** Rajani Tangirala — Content Experience Lead
 **Last Updated:** July 2026
 
